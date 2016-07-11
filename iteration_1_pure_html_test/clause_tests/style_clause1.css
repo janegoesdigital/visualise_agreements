@@ -1,0 +1,91 @@
+
+/*purple #A593E0
+pinky purple #9055A2
+light grey #E0E3DA
+off white #FFFFF3
+dark gray #566270 - this colour looks foul on mass!
+pale pink #D499B9
+grey blue ??  #2E294E
+night blue #011638
+*/
+
+
+
+body {
+  background-color: #011638;
+  color: #011638;
+}
+
+
+h1 {
+  color:  #9055A2;
+  text-align: center;
+  display: list-item;
+}
+
+h2 {
+  color:#FFFFF3;
+}
+
+article {
+  background-color: aliceblue;
+}
+
+
+/*Grid structure and responsiveness*/
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+
+}
+
+.col{
+  float:left;
+  min-height: 200px;
+  border: 20px solid #2E294E;
+  background: #D499B9;
+  -webkit-transition:1s;
+  -moz-transition:1s;
+  -ms-transition:1s;
+  -o-transition:1s;
+  transition:1s;
+
+}
+
+.col-2, {
+  width: 16.6666666%;
+  width: webkit-calc(100% / 6);
+  width: moz-calc(100% / 6);
+  width: ms-calc(100% / 6);
+  width: o-calc(100% / 6);
+  }
+
+.col-3 {
+  width: 25%;
+}
+
+/*calc - new way of doing this but need a fallback in case an old browser */
+.col-4 {
+  width: 33.3333333%;
+  width: -webkit-calc(100%/3);
+  width: -moz-calc(100%/3);
+  width: -ms-calc(100%/3);
+  width: -o-calc(100%/3);
+  width: calc(100%/3);
+  }
+
+  .col-5{
+    width: 20%;
+  }
+
+  .col-6{
+    width: 50%;
+  }
+
+
+.col-12 {
+  width: 100%;
+  height: 50%;
+  }

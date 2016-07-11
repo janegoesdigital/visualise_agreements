@@ -1,4 +1,4 @@
-Form 3
+IForm 3
 Estate Agents Act 1980
 Regulation 5(b)
 Contact of Sale of Business
@@ -25,7 +25,7 @@ Purchaser
 see dictionary
 Purchaser's Address
 Street and postal address, facsimile, and email.
-
+I
 see clause 27
 Covenantors
 For example, a director(s) of the Vendor or shareholder(s) of the Vendor).
@@ -40,7 +40,6 @@ Purchase Price
 
 see dictionary and clause 4
 Deposit
-
 see dictionary and clauses 4.1.1, 4.2 and 4.3
 Balance of Purchase Price
 Payable on Completion.
