@@ -1,0 +1,72 @@
+/*purple #A593E0 light grey #E0E3DA off white Cdark gray #566270  1271*/
+
+
+
+
+
+body {
+  background-color: #A593E0 ;
+}
+
+
+h1 {
+  color:  #566270;
+  text-align: center;
+  display: list-item;
+}
+
+
+
+/* Structural components -  divs*/
+.notes {
+  background-color: #FFFFF3;
+}
+
+.source {
+    background-color: #FFFFF3;
+
+}
+
+.warnings {
+  border: #566270;
+  background-color:  red;
+  margin: 20px;
+}
+
+.variables {
+  background-color: #FFFFF3;
+}
+
+.execution {
+  background-color: #FFFFF3;
+}
+
+.clauses {
+  background-color:  #FFFFF3
+}
+
+.dictionary {
+  background-color:  #FFFFF3;
+};
+
+dl {
+   border: 5px double #ccc;
+
+   padding: 0.5em;
+ }
+ dt {
+  border: 5px solid red;
+   float: left;
+   clear: left;
+   width: 200px;
+   text-align: left;
+   font-weight: bold;
+   color: green;
+ }
+
+ dd {
+  border: 5px solid pink;
+   float: inline
+   margin: 0 0 0 110px;
+   padding: 0 0 0.5em 0;
+ }

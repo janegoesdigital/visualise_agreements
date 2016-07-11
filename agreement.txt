@@ -1,0 +1,485 @@
+Form 3
+Estate Agents Act 1980
+Regulation 5(b)
+Contact of Sale of Business
+Standard form of contract prescribed by the Estate Agents (Contracts) Regulations 2008
+Warning:
+This is a binding contract
+You should obtain the advice of a solicitor before you sign
+By signing this contract, the Purchaser acknowledges that before signing this contract the Purchaser received, where appropriate:
+a statement from an auctioneer or estate agent about finance under section 51 of the Estate Agents Act 1980, and
+a statement by a Vendor of a small business under section 52 of the Estate Agents Act 1980.
+Business name and description
+
+see dictionary
+
+Vendor
+
+see dictionary
+Vendor's Address
+Street and postal address, facsimile, and email.
+
+see clause 27
+Purchaser
+
+see dictionary
+Purchaser's Address
+Street and postal address, facsimile, and email.
+
+see clause 27
+Covenantors
+For example, a director(s) of the Vendor or shareholder(s) of the Vendor).
+
+see dictionary and clause 20
+Covenantors' Address
+Street and postal address, facsimile, and email.
+
+see clause 27
+
+Purchase Price
+
+see dictionary and clause 4
+Deposit
+
+see dictionary and clauses 4.1.1, 4.2 and 4.3
+Balance of Purchase Price
+Payable on Completion.
+
+see clause 4.1.2
+Purchase Price apportionment
+Assets, Goodwill etc.
+
+see clause 4.5 and clause 12
+Stakeholder
+For example, the Vendor's lawyer or estate agent
+
+see dictionary and clauses 4.1, 4.2 and 4.3
+Stock Valuer
+	kilometre radius from the Premises.
+see dictionary and clause 11.4
+Assistance Period
+Insert number of days before and after Completion.
+	kilometre radius from the Premises.
+	kilometre radius from the Premises.
+days after completion.
+see dictionary and clause 8
+Restraint Area
+Insert the area where the Vendor and Covenantors must not compete etc., with the Business during the Restraint Period.
+	kilometre radius from the Premises.
+see dictionary and clause 20.1
+Restraint Period
+Insert the period during which the Vendor and Covenantors must not compete etc. with the Business within the Restraint Area.
+	months after the Completion Date.
+see dictionary and clause 20.1
+
+Conditions
+For example, subject to finance.
+
+see dictionary and clauses 2 and 3
+
+Completion Date
+
+see dictionary and clause 10.1
+Location for Completion
+
+
+see dictionary and clause 10.1
+
+Employees
+Insert names of employees who must be offered employment by the Purchaser.
+
+see dictionary and clauses 10.2.8, 18 and clause 19
+Premises
+Insert address.
+
+see dictionary
+Premises Lease
+Insert particulars of lessor, registration number, expiry and options remaining etc.
+
+see dictionary and clauses 10.2.9, 15, 21.13 and 26.5
+Motor Vehicles
+Insert particulars of registration, make, model
+and any Encumbrances being transferred to the Purchaser etc.
+
+see dictionary and clauses 10.2.10 and 17
+Leased Equipment
+Insert particulars of lessor, make, model, remainder owing and duration of lease etc.
+
+see dictionary and clauses 10.2.2, 10.2.9 and 14
+Hired Equipment
+Insert particulars of hirer, make and model, periodic payments and term etc.
+
+see dictionary and clauses 10.2.2, 10.2.9 and 14
+Intellectual Property Rights
+Insert description and details of
+any licences, including term and ongoing
+fees etc.
+
+see dictionary and clause 10.2.4
+Business Contracts and Arrangements
+Insert particulars of other party, key terms and duration etc.
+
+see dictionary and clauses 10.2.5 and 16
+Excluded Assets
+Insert particulars of assets not being transferred with Business.
+
+see dictionary and clause 21.10.1
+
+Executed as an agreement
+Signed by (or on behalf of) the Vendor
+Signature
+
+Name
+
+Title
+
+Signed by (or on behalf of) the Purchaser
+Signature
+
+Name
+
+Title
+
+Signed by the Covenantors
+(if more than one, all Covenantors should sign)
+
+
+
+
+
+
+
+Clauses
+1.	Cooling Off
+1.1	Subject to clause 1.2, the Purchaser may terminate this contract by giving written notice to the Vendor (or the Vendor's agent) within 3 Business Days after the day the Purchaser signs the contract.
+1.2	The Purchaser is not entitled to give notice under clause 1.1 where the Purchaser previously signed a similar contract for the purchase of the Business.
+1.3	If the Purchaser terminates this contract under clause 1.1, any payment the Purchaser made to the Vendor or Stakeholder must be refunded.
+2.	Sale and Purchase
+If all Conditions are satisfied, at Completion:
+2.1	the Vendor (as legal and beneficial owner) sells; and
+2.2	the Purchaser buys, free from all Encumbrances (other than those Encumbrances listed in the Particulars), the Business and the Assets.
+3.	Conditions
+3.1	The rights and obligations of the parties in this contract have no force or effect until all Conditions are satisfied.
+3.2	Each party must:
+3.2.1	immediately notify the other party of the satisfaction of its Conditions; and
+3.2.2	provide evidence to establish, to the reasonable satisfaction of the other party, that its Conditions have been satisfied.
+3.3	If the Conditions are not satisfied or waived by the Purchaser on or before:
+3.3.1	5:00 pm, two Business Days prior to the Completion Date; or
+3.3.2	such other date and time agreed in writing by the parties,
+this contract terminates immediately, except with regard to:
+3.3.3	the Deposit; and
+3.3.4	the Confidential Information.
+4.	Purchase Price
+4.1	The Purchaser must pay:
+4.1.1	on the date specified in the Particulars—the Deposit to the Stakeholder; and
+4.1.2	on Completion—the balance of the Purchase Price as directed by the Vendor.
+4.2	Within two Business Days of receipt, the Stakeholder must invest the Deposit in an interest bearing account with its Bank.
+4.3	The Vendor must direct the Stakeholder to cause the Deposit and interest earned on the Deposit to be:
+4.3.1	released to the Vendor upon Completion; or
+4.3.2	released and forfeited to the Vendor if this contract is lawfully terminated due to the breach of the Purchaser, without prejudice to any other right that the Vendor may have arising from the breach; or
+4.3.3	released to the Purchaser if the contract is lawfully terminated other than as a result of a default on the part of the Purchaser.
+4.4	Unless otherwise agreed by the Vendor, the Purchaser must pay the Purchase Price by bank cheque.
+4.5	The Purchase Price must be apportioned between the Assets on the basis set out in the Particulars.
+5.	Title and Risk
+5.1	The Purchaser is only entitled to the income and profits of the Business accrued after Completion.
+5.2	Possession of the Assets sold under this contract and risk related to the Assets must be given and taken at Completion.
+5.3	Until Completion, the Vendor must maintain current insurance policies in respect of the Assets covering such risks and for such amounts as would be maintained in accordance with prudent business practice and, if required by the Purchaser, have noted on all relevant insurance policies the interest of the Purchaser in the Assets.
+5.4	If any of the Assets are damaged, destroyed or otherwise affected before Completion to a degree which, in the reasonable opinion of the Purchaser, materially and adversely affects the conduct or profitability of the Business, the Purchaser may immediately terminate this contract by notice in writing to the Vendor.
+5.5	If the Purchaser does not elect to terminate this contract and the Vendor is not adequately insured under the contracts of insurance referred to in clause 5.3, an appropriate adjustment must be made to the Purchase Price as agreed between the Vendor and the Purchaser or, failing agreement, as determined by an independent third party acting as an expert. If the parties cannot agree on appointment of the third party or their remuneration or both, then either party may ask the President (or nominee) of the Law Institute of Victoria to appoint a suitable independent third party or determine that person's remuneration or both.
+5.6	The Purchaser and its representatives are entitled to full management and control of the Business at and from Completion.
+5.7	Title to the Assets and the benefit of the Goodwill passes to the Purchaser at Completion.
+6.	Continuation of Business
+Prior to Completion the Vendor must carry on the Business in the usual and ordinary course and do all things necessary or desirable to preserve and enhance the Goodwill and not do anything which may damage the Goodwill at any time.
+7.	Sale as Going Concern
+7.1	The Purchaser warrants that it is registered for GST purposes and will remain registered prior to and during Completion.
+7.2	The parties acknowledge and agree that the sale of the Assets under this contract, together with the supply of anything else by the Vendor to the Purchaser under this contract, constitutes a GST‑free supply of a going concern.
+7.3	If at any time the supply or supplies under this contract do not constitute a supply of a going concern, the Purchaser must pay to the supplier an amount equal to the GST payable on the supply together with any general interest charge or penalties imposed by the Commissioner of Taxation.
+8.	Assistance
+The Vendor must do whatever is reasonably necessary to introduce the Purchaser to customers and suppliers connected with the Business and give the Purchaser reasonable assistance and advice about running the Business during the Assistance Period.
+9.	Access to Records and Copies
+9.1	The Vendor must facilitate and ensure that the Purchaser, its agents, representatives, accountants and solicitors are authorised and provided with full and free access to the Premises and the Records at all reasonable times before the Completion Date.
+9.2	In exercise of the rights granted under clause 9.1, the Purchaser may make copies of material examined, consult with the Vendor's auditor or accountant and, subject to the prior consent of the Vendor (which may not be unreasonably withheld), consult with Employees.
+9.3	Until completion, or in the event that the sale and purchase of the Business and Assets is not completed under this contract, the Purchaser, its agents, representatives, accountants and solicitors must keep strictly confidential all information supplied or obtained under clauses 9.1 and 9.2.
+10.	Completion
+10.1	Completion must take place on the Completion Date at the location specified in the Particulars or such other place as the parties agree.
+10.2	At Completion, the Vendor must, at its own cost (if any):
+10.2.1	deliver to the Purchaser releases of all Encumbrances affecting the Assets (other than those Encumbrances being transferred by this contract and specified in the Particulars) from all persons holding those interests; and
+10.2.2	deliver to the Purchaser each item of the Plant and Equipment, Motor Vehicles, Hired Equipment and Leased Equipment in good working order and condition (fair wear and tear excepted); and
+10.2.3	deliver to the Purchaser all Stock; and
+10.2.4	deliver to the Purchaser duly executed transfers of or consents relating to the Intellectual Property Rights (where applicable) in a form acceptable to the Purchaser; and
+10.2.5	assign to the Purchaser all its right, title and interest in the Business Contracts and Arrangements and deliver to the Purchaser all required consents to such assignment; and
+10.2.6	deliver to the Purchaser duly executed documents to enable the Purchaser to apply for and obtain a transfer of all Statutory Licences to enable the Purchaser to lawfully carry on the Business after Completion; and
+10.2.7	deliver to the Purchaser the Records and the Customer List; and
+10.2.8	deliver to the Purchaser a list setting out, with respect to each Transferring Employee, their date of commencement of employment, rates of remuneration, leave and other entitlements as at Completion; and
+10.2.9	unless clauses 14, 15 or 16 of this contract apply, deliver to the Purchaser the written consents of the respective owners, lessors or mortgagors to the assignment of the Hire Purchase Agreements, the Equipment Leases and the Premises Leases in a form acceptable to the Purchaser together with the original duly stamped leases or agreements and duly executed assignments or transfers (if necessary); and
+10.2.10	deliver to the Purchaser:
+10.2.10.1	certificates of registration, duly executed notices of disposition and roadworthy certificates in respect of all Motor Vehicles (whether owned or leased) sold or transferred pursuant to this contract; and
+10.2.10.2	such other notices, documents, instruments and assignments reasonably requested by the Purchaser prior to Completion, which are required to be executed or registered under any statute or otherwise, to enable the Purchaser to take possession of the Assets or for the future conduct of the Business; and
+10.2.10.3	any other document or thing reasonably necessary to give full effect to this contract as it relates to the Vendor; and
+10.2.11	transfer to the control of the Purchaser any deposit money held on trust for customers of the Business
+10.3	At Completion, the Purchaser must pay, as directed by the Vendor, that part of the Purchase Price referred to in clause 4.1.2 (plus or minus the net amount of adjustments required to be made between the parties in accordance with this contract, including clause 12).
+11.	Stocktake
+11.1	On the day immediately prior to Completion and (if necessary) on the Completion Date but prior to Completion, the Vendor and the Purchaser must carry out a physical stocktake of the Stock.
+11.2	In carrying out the physical stocktake, the Vendor and the Purchaser must classify all items of Stock as:
+11.2.1	good and saleable; or
+11.2.2	not of merchantable quality.
+11.3	Each class of Stock must be valued as follows:
+11.3.1	the good and saleable Stock must be valued at the last invoiced cost price to the Vendor (including GST) as determined by the Vendor and Purchaser from the Records; and
+11.3.2	Stock which is not of merchantable quality must be valued by agreement between the Vendor and the Purchaser or, failing agreement by Completion, be determined in the manner set out in clause 11.4.
+11.4	Any dispute between the Vendor and the Purchaser relating to the physical quantity, quality, standard, classification, invoiced cost to the Vendor of Stock, or the value of items of Stock not of merchantable quality, which is not settled by Completion must be determined by the Stock Valuer.
+12.	Adjustments
+All:
+12.1	periodical outgoings and expenses in respect of the Business (for example, rent, insurance, electricity, gas and water expenses); and
+12.2	any deposits received by the Vendor for goods to be supplied by the Business, must be apportioned as at the Completion Date between the Vendor and the Purchaser and the Purchase Price adjusted accordingly.
+13.	Assumption of Debt and Liabilities
+13.1	With the exception of the Encumbrances specified in the Particulars (and only to the extent specified in the Particulars), the Purchaser does not assume any debt, liability or obligation of the Vendor, whether known or unknown, fixed or contingent.
+13.2	Without limiting the generality of this clause, the Purchaser has no liability of any kind for, and the Vendor must indemnify the Purchaser against all Claims and Liabilities that arise from or relate to, the conduct of the Business prior to Completion.
+14.	Hire Purchase Agreements and Equipment Leases
+14.1	The Vendor must secure and the Purchaser must take an assignment of the Hire Purchase Agreements and Equipment Leases as at and with effect from the Completion Date.
+14.2	The Purchaser must provide to the Vendor all information as is reasonably requested in order to obtain an assignment or novation of the Hire Purchase Agreements and Equipment Leases.
+14.3	The Purchaser must assume, perform and observe the covenants and obligations of the Vendor under the Hire Purchase Agreements and Equipment Leases from the Completion Date and indemnifies the Vendor against any Claims or Liabilities arising as a result of any breach of such agreements by the Purchaser after the Completion Date.
+14.4	The Vendor indemnifies the Purchaser against all Claims or Liabilities arising as a result of any breach of the Hire Purchase Agreements and Equipment Leases by the Vendor occurring prior to the Completion Date.
+14.5	If the Vendor is unable to procure the assignment or novation of a Hire Purchase Agreement or Equipment Lease to the Purchaser prior to the Completion Date, the Purchaser may, at its absolute discretion:
+14.5.1	decline to accept the relevant Hired Equipment or Leased Equipment and reduce the Purchase Price according to the remaining sum owing under the relevant Hire Purchase Agreement or Equipment Lease; or
+14.5.2	if the Hired Equipment or Leased Equipment is material to the operation of the Business and the Purchaser has complied with clause 14.2, immediately terminate this contract by notice in writing to the Vendor.
+15.	Premises Leases
+15.1	The Purchaser must provide to the Vendor all information as is reasonably requested in order to obtain an assignment or novation of the Premises Leases.
+15.2	In the event that:
+15.2.1	a transfer or assignment of one or more of the Premises Leases is not received from the lessors by Completion; or
+15.2.2	the consent of persons holding a security interest (including a mortgage) over one or more of the Premises to the transfer or assignment of a Premises Lease is not received from that person by Completion,
+the Purchaser may, at its absolute discretion:
+15.2.3	require the Vendor to enter into another arrangement acceptable to the Purchaser for the continuation of the Business by the Purchaser at the relevant Premises; or
+15.2.4	provided that the Purchaser has complied with clause 15.1, immediately terminate this contract by notice in writing to the Vendor.
+16.	Business Contracts and Arrangements
+16.1	If the assignment of any of the Business Contracts and Arrangements requires another party's consent the Vendor must, until Completion and at its own cost, use its reasonable endeavours with the co-operation of the Purchaser to procure the consent of that other party to the assignment of those Business Contracts and Arrangements from the Completion Date.
+16.2	The Purchaser must provide to the Vendor all information as is reasonably requested in order to obtain an assignment of the Business Contracts and Arrangements.
+16.3	In respect of each Business Contract and Arrangement assigned under this contract:
+16.3.1	the Vendor is responsible for complying with all of the obligations under it for the period up to and including the Completion Date; and
+16.3.2	the Purchaser is responsible for complying with all of the obligations under it for the period after the Completion Date; and
+16.3.3	each party accordingly indemnifies the other against all Claims or Liabilities arising out of or in relation to the nonpayment, nonobservance or nonperformance of any obligations arising under or arising in respect of each Business Contract and Arrangement.
+16.4	If the Vendor is unable to procure the assignment of a Business Contract and Arrangement the Purchaser may, at its absolute discretion:
+16.4.1	require an appropriate reduction in the Purchase Price, taking account of the expected value of the relevant Business Contract and Arrangement to the Business after Completion; or
+16.4.2	if the Business Contracts and Arrangements are material to the operation of the Business and the Purchaser has complied with clause 16.2, immediately terminate this contract by notice in writing to the Vendor.
+17.	Motor Vehicles
+17.1	The Vendor must bear the cost of any notice of disposal and any roadworthiness certificate required to be obtained (including the cost of any repair works required to obtain the roadworthiness certificate) in relation to any motor vehicle (owned or leased) sold or transferred under this contract.
+17.2	The Purchaser must bear the cost of preparing and lodging any notice of acquisition or other documents required to be lodged under the relevant motor vehicle legislation and all stamp and other duties payable with respect to the transfer of ownership of any motor vehicle under this contract.
+18.	Employees and Officers
+18.1	The Vendor must, at least 14 days prior to Completion, deliver to the Purchaser all relevant particulars of each Employee including the Employee's date of commencement, applicable award, total remuneration (including bonuses or profit sharing arrangements), rostered days off, superannuation or pension contributions, Workcare contributions, accrued annual leave (including loading) and accrued long service leave entitlements due to the Employee as at the Completion Date.
+18.2	The Purchaser must, at least 7 days prior to Completion, offer to employ each Employee specified in the Particulars, with effect from and conditional on Completion, on terms and conditions no less favourable than those on which each such Employee is employed prior to the Completion Date.
+18.3	The Purchaser must advise the Vendor which Employees have accepted the Purchaser's offer of employment (the "Transferring Employees").
+18.4	The Vendor must not do anything to discourage any Employee from accepting employment with the Purchaser.
+18.5	The Vendor must, on and with effect from the close of business on the day prior to the Completion Date, terminate the employment of all of the Transferring Employees.
+18.6	On the Completion Date the Vendor must pay to each Employee who is not a Transferring Employee, or otherwise ceases work for the Vendor, all amounts due to him or her as at the Completion Date.
+18.7	On the Completion Date, the Vendor must pay to the Transferring Employees all amounts owing and due to them as at the Completion Date in respect of wages, salaries, commissions, bonuses, allowances and other emoluments relating to services rendered prior to the Completion Date.
+18.8	At Completion the Vendor must allow an adjustment in favour of the Purchaser of an amount calculated in accordance with the formula set out below and the Purchaser must, with effect from the Completion Date, assume responsibility for the Employee Entitlements:
+A = EE  CT
+where:
+A is the amount of the adjustment;
+EE is the amount of the Employee Entitlements as at the Completion Date; and
+CT is the income or company tax rate applicable to the Vendor as at the date of this contract.
+19.	Superannuation
+19.1	At Completion, the Vendor must produce evidence to satisfy the Purchaser that there are no outstanding superannuation contributions owing as at the Completion Date in respect of the Transferring Employees.
+19.2	If the Vendor fails to comply with its obligation under clause 19.1, an amount equal to the aggregate of any outstanding superannuation contributions owing by the Vendor as at the Completion Date in respect of the Transferring Employees must be deducted from the Purchase Price.
+20.	Restraint
+20.1	In consideration of the Purchaser, at the request of the Vendor and the Covenantors, agreeing to enter into this contract and solely for the protection of the Goodwill, the Vendor and the Covenantors jointly and severally undertake to the Purchaser that they will not:
+20.1.1	for the Restraint Period and within the Restraint Area promote, carry on, assist with, participate in or otherwise be directly or indirectly concerned (financially or otherwise) with or involved in any business or activity which is the same as or substantially similar to, or competes with, the Business or a material part of the Business; and
+20.1.2	for the Restraint Period:
+20.1.2.1	solicit, canvass, induce, or encourage any person or entity who is an employee, contractor or agent of the Purchaser in the conduct of the Business to leave the employment or agency of the Purchaser; or
+20.1.2.2	solicit, canvas, approach or accept any approach from any person or entity who was during the year prior to Completion a customer of the Business, with a view to establishing a relationship with (including obtaining the custom of) that person or entity for a business which does or may compete with the Business or a material part of the Business,
+on its or their own account or for or on behalf of any person or entity.
+20.2	In consideration of the Purchaser, at the request of the Vendor and the Covenantors, agreeing to enter into this contract and solely for the protection of the Goodwill, the Vendor and the Covenantors jointly and severally undertake to the Purchaser that the Vendor and the Covenantors will not at any time after Completion use a symbol, logo, domain name, trademark or business name substantially identical or deceptively similar to the business names, trademarks or the domain names of the Business.
+20.3	The Vendor and the Covenantors acknowledge that:
+20.3.1	the Business may be adversely affected if, after Completion, the Vendor and the Covenantors engage in any activity referred to in clauses 20.1 and 20.2; and
+20.3.2	the prohibitions and restrictions contained in clauses 20.1 and 20.2 are reasonable and necessary to protect the Goodwill; and
+20.3.3	they have received valuable consideration for agreeing to the covenants in clauses 20.1 and 20.2; and
+20.3.4	the only effective, fair and reasonable manner in which the interests of the Purchaser can be protected is by the restraints and covenants imposed by clauses 20.1 and 20.2.
+20.4	The provisions of this clause 20 must be interpreted in accordance with clause 1.1.
+21.	Warranties
+21.1	The Vendor and the Covenantors warrant and represent to the Purchaser as at the date of this contract and as at the Completion Date the matters set out in this clause.
+21.2	If the Vendor is a company:
+21.2.1	the Vendor is duly incorporated and has full corporate power to own the Assets and to carry on the Business; and
+21.2.2	the Vendor has the power to enter into and perform this contract; and
+21.2.3	no petition has been issued against the Vendor to wind it up nor has action been taken or threatened to be taken to seize or take possession of any of its assets (including the Assets); and
+21.2.4	no controller, administrator or trustee of the Vendor has been appointed.
+21.3	If the Vendor is a natural person or a company:
+21.3.1	there are no unsatisfied judgments against the Vendor which have not been disclosed to the Purchaser; nor has any sequestration order been made or writ of execution issued against the Vendor or any of its assets (including the Assets); and
+21.3.2	the Vendor does not have any interest directly or indirectly in any company or business which is or is likely to be competitive with the Business; and
+21.3.3	the sale of the Assets pursuant to this contract does not result in a breach of any obligation (including any statutory, contractual or fiduciary obligation) or constitute a default under or result in the imposition of any encumbrance under any agreement or undertaking, by which the Vendor is bound.
+21.4	The Accounts exhibit a true and fair view of the financial position and affairs of the Business, are true and accurate to a material extent and are not affected by unusual, extraordinary or non‑recurring items.
+21.5	The Vendor holds all material statutory licences, consents and authorisations necessary for the carrying on of the Business.
+21.6	The conduct of the Business by the Vendor does not contravene any laws in any material respect and no allegation of any contravention of any applicable laws is known to the Vendor.
+21.7	All information concerning the Business and the Assets which the Vendor or any of the Vendor's representatives have furnished to the Purchaser or the Purchaser's representatives prior to the execution of this contract is true, complete and accurate in all material respects and is not misleading or deceptive whether by inclusion or omission.
+21.8	As far as the Vendor and the Covenantors are aware, there are no Claims by any person (including the Employees) or authority relating to the Business, other than those disclosed to the Purchaser.
+21.9	There are no outstanding notices or orders served or made by any person, body or authority affecting the Business and the Vendors are not aware of any proposals or circumstances which may result in such a notice or order being served or made.
+21.10	The Assets:
+21.10.1	are all of the assets (other than the Excluded Assets) which have been used and which are appropriate, material and necessary for the successful conduct of the Business; and
+21.10.2	will all be the property of the Vendor at Completion and will be free from all Encumbrances (other than those Encumbrances listed in the Particulars).
+21.11	The Premises Leases create a valid and enforceable leasehold interest in accordance with their terms and have not been amended or modified.
+21.12	The Premises are the only leasehold properties occupied or used by the Vendors in the conduct of the Business.
+21.13	The Vendor has duly and punctually observed and performed the terms and conditions of the Premises Leases, is not in breach or default under any term or provision of them or liable to forfeiture or termination.
+21.14	The Vendor has not received and is not aware of any notice from any party or competent authority affecting any right or interest under the Premises Leases.
+21.15	Each item of Plant and Equipment is in a good and safe state of repair and condition and satisfactory working order for its age (fair wear and tear excepted) and has been regularly and properly maintained.
+21.16	Other than as disclosed to the Purchaser, all Stock, whether in hand, in transit or in bond, is of good and merchantable quality, fit for the purpose for which it is intended to be used and is capable of being sold or used in the ordinary course of the Business, in accordance with the Vendor's current price lists without rebate or allowance to a purchaser.
+21.17	The Vendor has:
+21.17.1	in relation to each Employee, complied in all material respects with all obligations imposed on it by statutes, orders, regulations, collective agreements, awards and codes of conduct relevant to conditions of service; and
+21.17.2	made all payments in respect of occupational superannuation required under any statute or award in respect of each Employee; and
+21.17.3	complied in all material respects with all statutory requirements as to workers' compensation, insurance, payroll tax and income tax instalment deductions in relation to all Employees or past employees of the Business; and
+21.17.4	established procedures under and has complied in all material respects with all requirements at any time in force under all occupational, health and safety legislation.
+21.18	Each of the Business Contracts and Arrangements is valid, binding and enforceable against the parties to it and no party is in default.
+21.19	The Vendor is not aware of any grounds for rescission or avoidance or repudiation of any of the Business Contracts and Arrangements.
+21.20	The Vendor is not a party to any contractual arrangement in relation to the Business which may be terminated by any other party by reason of this contract or a change in the ownership of the Business.
+21.21	There are no existing challenges to the Vendor's right, title or interest in any of the Intellectual Property Rights.
+21.22	As far as the Vendor is aware, the Vendor's use of the Intellectual Property Rights does not breach the rights of any other person and no Claims have been asserted challenging the Vendor's use of the Intellectual Property Rights.
+21.23	The Vendor is not aware of any use by any other corporation or person of any trademarks or domain names forming part of the Assets.
+21.24	There are no rights, benefits or arrangements used in or pertaining to the Business the benefit of which will not effectively pass to the Purchaser pursuant to this contract at Completion.
+21.25	If the Vendor is the trustee of a trust, the Vendor:
+21.25.1	is the only trustee of the Trust Fund; and
+21.25.2	warrants that the trust deed and any deeds supplemental to the trust deed of the Trust Fund disclose all of the terms of the Trust Fund; and
+21.25.3	has the power under the trust deed of the Trust Fund to execute and comply with this contract; and
+21.25.4	warrants that it is not in material default under the trust deed; and
+21.25.5	warrants that it has a right to be indemnified fully out of the trust assets in respect of all obligations and liabilities incurred by it under this contract.
+22.	Limits on Warranties
+22.1	The Warranties are given subject to the disclosures in:
+22.1.1	this contract; and
+22.1.2	the Records; and
+22.1.3	any other document which, or a copy of which, has been given to the Purchaser before the Completion Date; and
+22.1.4	any other disclosure made by the Vendor to the Purchaser prior to the Completion Date.
+22.2	The Purchaser must not claim that any facts disclosed in any of the documents specified in this clause renders any of the Warranties untrue or misleading or causes them to be breached.
+22.3	The Vendor is not liable to the Purchaser for any Claim arising from or relating to, and the Purchaser expressly acknowledges and represents (with intention that the Vendor relies upon the representation) that it does not rely upon any statement, representation, warranty, promise, undertaking or agreement in connection with, the sale of the Assets not expressly set out in this contract.
+22.4	The Vendor is not liable to the Purchaser for any claim for breach of the Warranties unless the Purchaser has given written notice to the Vendor setting out specific details of the claim on or before the day 12 months after the Completion Date.
+22.5	The Purchaser agrees that the total amount payable by the Vendor in respect of all claims under this contract is no more than the amount of the Purchase Price.
+22.6	The Purchaser must give written notice to the Vendor setting out full details of any claim, demand or legal proceeding which may lead to liability on the part of the Vendor and must permit the Vendor to defend, arbitrate or compromise any such proceedings.
+23.	GST
+23.1	Except as otherwise provided by this clause, all consideration payable under this contract in relation to any supply is exclusive of GST.
+23.2	If GST is payable in respect of any supply made by a supplier under this Agreement (GST Amount), the recipient will pay to the supplier an amount equal to the GST payable on the supply.
+23.3	Subject to clause 23.4, the recipient will pay the GST Amount at the same time and in the same manner as the consideration for the supply is to be provided under this contract.
+23.4	The supplier must provide a tax invoice to the recipient before the supplier will be entitled to payment of the GST Amount under clause 23.3.
+23.4.1	If this contract requires a party to reimburse an expense or outgoing of another party, the amount to be paid or reimbursed by the first party will be the sum of:
+23.4.2	the amount of the expense or outgoing less any input tax credits in respect of the expense or outgoing to which the other party is entitled; and
+23.4.3	if the payment or reimbursement is subject to GST, an amount equal to that GST.
+23.5	If an adjustment event occurs in relation to a taxable supply under this contract:
+23.5.1	the supplier must provide an adjustment note to the recipient within 7 days of becoming aware of the adjustment; and
+23.5.2	any payment necessary to give effect to the adjustment must be made within 7 days after the date of receipt of the adjustment note.
+24.	Confidential Information
+24.1	For the sole purpose of protecting the Purchaser (both prior to and after Completion) in respect of the acquisition of the Assets, the Vendor covenants with the Purchaser that the Vendor will:
+24.1.1	subject to clause 24.1.2, not at any time after the date of this contract without the prior consent of the Purchaser disclose any Confidential Information to any person other than the Purchaser; and
+24.1.2	at all times after the date of this contract use their best endeavours to prevent disclosure by any officer, employee, agent of or consultant to the Vendor.
+24.2	Clause 24.1 does not apply to disclosures by the Vendor (or any officer, employee, agent of or consultant to the Vendor) of Confidential Information:
+24.2.1	that is now or in the future in the public domain other than due to a default under this contract; or
+24.2.2	that is required to be disclosed by the Vendor to any government authority; or
+24.2.3	that is required to be disclosed by the Vendor under any law, Court order or legislation from time to time in force.
+25.	Disputes
+25.1	If the Purchaser fails to pay money owing under this contract the Vendor may sue for the unpaid money immediately without first complying with clause 25.3.
+25.2	A party may seek urgent interlocutory relief in relation to the actions of the other party under this contract without first complying with clause 25.3.
+25.3	Unless clause 25.1 or 25.2 applies, if a dispute arises out of or relates to this contract (including any dispute as to breach or termination of this contract) a party to the contract may not commence court proceedings relating to that dispute (Dispute) unless:
+25.3.1	the party claiming the Dispute has arisen has given written notice to the other party specifying the nature of the Dispute (Dispute Notice); and
+25.3.2	the parties first endeavour in good faith to resolve the Dispute expeditiously using mediation, applying the procedures and within the timeframes specified in clauses 25.4 and 25.5.
+25.4	Upon the service of a Dispute Notice the parties must jointly agree on a mediator and the mediator's remuneration. If the parties fail to agree within 5 days of the service of the Dispute Notice (or such other period agreed by the parties) either party may ask the President (or nominee) of the Law Institute of Victoria to appoint a mediator on behalf of the parties and determine the mediator's remuneration.
+25.5	The parties must observe the instructions of the mediator about the conduct of the mediation and seek to resolve the Dispute with the assistance of the mediator within 10 Business Days of the appointment of the mediator (or such other period agreed by the parties). If the Dispute is not resolved within that time then either party may commence court proceedings.
+25.6	The costs of the mediator will be borne equally by the parties.
+26.	General
+26.1	This contract may only be varied or replaced by a document duly executed by the parties.
+26.2	This contract contains the entire understanding between the parties as to the subject matter contained in it. All previous agreements, representations, warranties, explanations and commitments, expressed or implied, affecting this subject matter are superseded by this contract and have no effect.
+26.3	Each party must promptly execute and deliver all documents and take all other action necessary or desirable to effect, perfect or complete the transactions contemplated by this contract.
+26.4	Each party must pay its own legal costs and expenses in relation to the negotiation, preparation and execution of this contract and other documents referred to in it, unless expressly stated otherwise.
+26.5	The Purchaser must pay any stamp duty on this contract and any document executed under it including on the assignment or transfer of the Premises Leases.
+26.6	A single or partial exercise or waiver of a right relating to this contract does not prevent any other exercise of that right or the exercise of any other right.
+26.7	No party will be liable for any loss or expenses incurred by another party caused or contributed to by the waiver, exercise, attempted exercise, failure to exercise or delay in the exercise of a right.
+26.8	A party must not:
+26.8.1	sell, transfer, delegate, assign, licence; or
+26.8.2	mortgage, charge or otherwise encumber,
+any right or obligation under this contract to any person, without the prior written consent of the other party to this contract (Other Party).
+26.9	The Other Party must not unreasonably withhold consent under clause 26.8.
+26.10	Time is of the essence as regards all dates, periods of time and times specified in this contract.
+26.11	Each indemnity in this contract is a continuing obligation, separate and independent from the other obligations of the parties and survives termination of this contract.
+26.12	It is not necessary for a party to incur expense or make payment before enforcing a right of indemnity conferred by this contract.
+26.13	The Warranties, conditions, provisions, undertakings, agreements and continuing obligations in this contract do not merge on Completion but to the extent that they have not been fulfilled and satisfied or are capable of having effect remain in full force and effect.
+26.14	This contract is governed by and is to be construed in accordance with the laws of Victoria. Each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of Victoria and waives any right to object to proceedings being brought in those courts.
+26.15	Subject to clause 26.16, if a provision in this contract is held to be illegal, invalid, void, voidable or unenforceable, that provision must be read down to the extent necessary to ensure that it is not illegal, invalid, void, voidable or unenforceable.
+26.16	If it is not possible to read down a provision as required by clause 26.15, that provision is severable without affecting the validity or enforceability of the remaining part of that provision or the other provisions in this contract.
+26.17	If the Restraint Period or the Restraint Area or both is judged to go beyond what is reasonable in the circumstances and necessary solely to protect the Goodwill, that Restraint Period or Restraint Area or both, as applicable, must be reduced by one half (First Reduced Restraint).
+26.18	If the Restraint Period or the Restraint Area or both, as reduced under clause 26.17, is judged to go beyond what is reasonable in the circumstances and necessary solely to protect the Goodwill that reduced Restraint Period or reduced Restraint Area or both must be again reduced by one half (Second Reduced Restraint).
+26.19	The separate and independent covenants and restraints arising under clauses 20.1 and 20.2 have effect as several separate and independent covenants and restraints when combined with those of the Restraint Period, Restraint Area, First Reduced Restraint and Second Reduced Restraint still applying after the operation of clauses 26.17 and 26.18.
+26.20	If any of the separate and independent covenants and restraints arising under clause 26.19 are or become invalid or unenforceable for any reason then that invalidity and unenforceability will not affect the validity or enforceability of the other separate and independent covenants and restraints.
+26.21	If any of the covenants and restraints arising under clause 26.19 would be judged reasonable and necessary if any activity specified in clause 20.1 were deleted, the prohibitions or restrictions apply with that activity deleted.
+26.22	This contract may be executed in any number of counterparts, all of which taken together constitute one instrument.
+27.	Notices
+27.1	A party giving notice or notifying under this contract must do so in writing:
+27.1.1	directed to the recipient's address or facsimile number as specified in the Particulars or as varied by any earlier notice; and
+27.1.2	hand delivered or sent by prepaid post or transmitted by facsimile to that address or facsimile number.
+27.2	A notice is taken to be served and received:
+27.2.1	if transmitted by facsimile, at the time successful and full transmission is indicated by the transmission confirmation generated by the sender's facsimile machine; or
+27.2.2	if sent by express post or certified mail, the next Business Day after posting; or
+27.2.3	if delivered by hand, on delivery.
+27.3	Following compliance with clause 27.1, a party may also send a copy of any notice to the other party's email address specified in the Particulars.
+28.	Interpretation
+28.1	In this contract:
+28.1.1	words and expressions that are not otherwise defined but which have a defined meaning in the GST Law have the same meaning as in the GST Law;
+28.1.2	a reference to:
+28.1.2.1	a person includes a firm, partnership, joint venture, association, corporation or other corporate body; and
+28.1.2.2	a person includes the legal personal representatives, successors and permitted assigns of that person; and
+28.1.3	a reference to this or another document includes the document as varied or replaced regardless of any change in the identity of the parties; and
+28.1.4	a reference to writing includes all modes of representing or reproducing words in a legible, permanent and visible form; and
+28.1.5	headings and subheadings are inserted for ease of reference only and do not affect the interpretation of this contract; and
+28.1.6	a reference to "$" or "dollars" is a reference to Australian dollars; and
+28.1.7	a reference to:
+28.1.7.1	the singular includes the plural and vice versa; and
+28.1.7.2	a gender includes the other genders; and
+28.1.8	a reference to a statute includes regulations under it and consolidations, amendments, re-enactments or replacements of any of them.
+28.2	If a payment or other act is required by this contract to be made or done on a day which is not a Business Day, the payment or act must be made or done on the next following Business Day.
+29.	Dictionary
+Accounts Date means the date not more than 14 days prior to Completion when the accounts of the Business are prepared.
+Assets means individually and collectively the Goodwill, the Debtors, the Plant and Equipment, the Motor Vehicles, the Intellectual Property Rights, the Stock, the Work in Progress and the benefit of the Business Contracts and Arrangements, Statutory Licences, Equipment Leases, Hire Purchase Agreements, Property Leases and any and all prepayments.
+Assistance Period means the period specified as such in the Particulars, which may be before or after Completion or both.
+Bank means an authorised deposit-taking institution within the meaning given to that term in the Banking Act 1959 (Cth).
+Business means the whole of the undertaking and goodwill of the business specified in the Particulars carried on by the Vendor under the business name specified in the Particulars from the Premises and using the Assets.
+Business Contracts and Arrangements means the supply, licence, employee, agency, consulting, franchise, warranties, guarantees, distribution and sale agreements, arrangements or understandings entered into, existing, made or held by the Vendor concerning the Business which are, in whole or in part, executory as at Completion, including those listed in the Particulars.
+Business Day means a day other than a Saturday, Sunday or public holiday in the State of Victoria.
+Claim includes a claim, notice, demand, action, proceeding, litigation, investigation, judgment, damage, loss, cost, expense or liability however arising, whether present, unascertained, immediate, future or contingent and whether based in contract, tort or statute.
+Completion means the completion of this contract resulting in the sale by the Vendor and the purchase by the Purchaser of the Business and the Assets.
+Completion Date means the date that Completion occurs, such date being scheduled to take place on the date specified in the Particulars.
+Conditions means the conditions specified as such in the Particulars.
+Confidential Information means:
+(a)	all trade secrets and all financial, accounting, marketing and technical information, customer and supplier lists, pricing information, ideas, concepts, formulae, know‑how, technology, operating procedures, processes, knowledge and other information belonging to, used by or relating to the Vendor in the conduct of the Business which is not in the public domain;
+(b)	all notes and reports incorporating or derived from information referred to in paragraph (a); and
+(c)	all copies of the information, notes and reports referred to in paragraphs (a) and (b).
+Covenantor means the person or persons described as such in the Particulars.
+Customer List means the list of customers of the Business required to be provided by the Vendor on the Completion Date under clause 10.2.7, which is a list of all known customers of the Business with whom the Vendor has traded during the 12 months prior to the Completion Date including, if available, particulars of the types of goods or services supplied to the customers, quantities supplied and pricing policies.
+Debtors means the trade and other debts owing to the Vendors as at Completion from products or services sold, delivered or provided by the Vendors in the conduct of the Business prior to Completion.
+Deposit means the dollar amount described as such in the Particulars.
+Employee Entitlements means all accrued entitlements of the Transferring Employees in respect of annual leave (including any loadings) and long service leave accruing in respect of service of 7 years or more.
+Employees means the persons employed by the Vendor in the conduct of the Business.
+Encumbrances means all mortgages, charges, pledges, liens, security interests, retentions of title, other encumbrances and all rights of any other person adverse to the interest of the Purchaser as purchaser of the Business and the Assets.
+Equipment Leases means each of the equipment leases entered into by the Vendor in respect of the Leased Equipment.
+Excluded Assets means assets specified as such in the Particulars used by the Vendor in the conduct of the Business prior to Completion which will not be transferred to the Purchaser on Completion.
+Goodwill means the goodwill of the Vendor in relation to the Business together with the exclusive right for the Purchaser to represent itself as carrying on the Business in succession to the Vendor.
+GST Law has the meaning given to that term in the A New Tax System (Goods and Services Tax) Act 1999.
+Hire Purchase Agreements means each of the hire purchase agreements entered into by the Vendor in respect of the Hired Equipment which the Purchaser requests be assigned to it.
+Hired Equipment means each item of plant and equipment identified in the Particulars hired by the Vendor under a Hire Purchase Agreement and used exclusively in the conduct of the Business.
+Intellectual Property Rights means all intellectual property and proprietary rights (whether registered or unregistered) owned or used by the Vendor or necessary for the conduct of the Business including:
+(a)	the business name,
+(b)	the trademarks;
+(c)	the Confidential Information; and
+(d)	all patents, patent applications, drawings, discoveries, inventions, improvements, trade secrets, technical data, formulae, computer programs, know‑how, logos, registered and unregistered designs, design rights, copyright and similar industrial or intellectual property rights.
+Leased Equipment means each item of equipment (including Motor Vehicles) identified in the Particulars leased by the Vendor under an Equipment Lease.
+Liabilities includes all liabilities (whether actual, contingent or prospective), losses, damages, costs and expenses of whatever description.
+Motor Vehicles means the registered motor vehicles identified in the Particulars owned by the Vendor and exclusively used in the conduct of the Business.
+Particulars means the particulars of this contract set out in Part 1.
+Plant and Equipment means all plant, equipment, fittings, internal partitions, light fittings, tables, glassware, signage, stationery, office furniture and equipment, machinery, computer hardware, printers, furniture, fittings and other fixed assets or chattels owned by the Vendors for use in the conduct of the Business.
+Plant and Equipment Leases means lease arrangements in relation to the Plant and Equipment.
+Premises means the properties leased by the Vendor under the Premises Leases for the purpose of conducting the Business as specified in the Particulars together with all improvements erected on those properties.
+Premises Leases means the lease agreements entered into by the Vendor in respect of the lease of the Premises, full particulars of which are specified in the Particulars.
+Purchase Price means the dollar amount described as such in the Particulars.
+Purchaser means the buyer of the Business and the Assets as set out in the Particulars.
+Records means all original and copy records, documents, books, files, reports, accounts, plans, correspondence, letters and papers of every description and other material belonging or relating to or used by the Vendor in the conduct of the Business including certificates of incorporation, minute books, statutory books and registers, books of account, taxation returns, title deeds, certificates of title, cheque books, sales literature, market research reports, product promotional, descriptive and application material, manufacturing and engineering records, sales and purchasing records, price lists, computer programs and software, personnel records, trading and financial records and lists of all regular suppliers and customers.
+Restraint Area means the area specified as such in the Particulars.
+Restraint Period means the period specified as such in the Particulars.
+Stakeholder means the person or persons described as such in the Particulars.
+Statutory Licences means all statutory licences, consents, registrations, approvals, authorities, rights, quotas, permits and certificates relating to any aspect of the Business which are held or required by any competent statutory authority (whether Commonwealth, State or local) to be held by the Vendor, or any employees of the Business.
+Stock means all marketable stocks of raw materials, packaging materials, finished goods and other good and saleable stock‑in‑trade owned and held by the Vendor in the conduct of the Business located at the Premises on the Completion Date.
+Stock Valuer means the person identified as such in the Particulars who will act as an expert and not as an arbitrator, whose decision will be final and binding on the Vendor and the Purchaser and whose costs will be borne and paid by the Vendor and the Purchaser in equal shares.
+Transferring Employees means the Employees who accept the Purchaser's offer of employment referred to in clause 18.2.
+Trust Fund means the trust fund on behalf of which the Vendor, as trustee, operates the Business and owns the Assets, if any.
+Vendor means the seller of the Business and the Assets as set out in the Particulars.
+Warranties means the warranties made and representations given by the Vendor to the Purchaser at clause 21.
+Work in Progress means the items of stock relating to orders placed by customers of the Business remaining uncompleted, undelivered or unfulfilled, to the extent that after Completion there is a continuing right or obligation relating to the Business.

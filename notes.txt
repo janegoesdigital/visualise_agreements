@@ -1,0 +1,19 @@
+Transforming the content from word – steps
+Used tool to do it – need to map the word styles to html styles
+Needed convert the ul to ol
+Lots the numbering –need to bring the numbering across as hard numbering
+Grouped the content around 4 divs
+1 variables
+2 execution
+3 clauses
+4 dictionary
+added dt tags to the dictionary
+replaced the strong with
+<dl>
+    <dt id="Purchase_price"> Purchase price</dt>
+    <dd>is blah blah blah blah </dd>
+</dl>
+
+
+HTML
+<address> tag 
