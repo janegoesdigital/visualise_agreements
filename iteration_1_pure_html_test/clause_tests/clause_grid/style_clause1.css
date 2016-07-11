@@ -16,7 +16,6 @@ body {
   color: #011638;
 }
 
-
 h1 {
   color:  #9055A2;
   text-align: center;
@@ -54,7 +53,7 @@ article {
 
 }
 
-.col-2, {
+.col-2 {
   width: 16.6666666%;
   width: webkit-calc(100% / 6);
   width: moz-calc(100% / 6);

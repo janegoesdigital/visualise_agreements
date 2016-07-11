@@ -1,0 +1,66 @@
+
+/*purple #A593E0
+pinky purple #9055A2
+light grey #E0E3DA
+off white #FFFFF3
+dark gray #566270 - this colour looks foul on mass!
+pale pink #D499B9
+grey blue ??  #2E294E
+night blue #011638
+*/
+
+
+
+body {
+  background-color: #011638;
+  color: #D499B9;
+  counter-reset: section;
+}
+
+h1::before {
+  counter-increment: section;                /* Increment the section counter*/
+  content: "Clause " counter(section) ": "; /* Display the counter */
+}
+
+h1 {
+  list-style-type: disc;
+  color:  #9055A2;
+  text-align: center;
+  display: list-item;
+}
+
+h2 {
+  color:#FFFFF3;
+}
+
+article {
+  background-color: aliceblue;
+}
+
+/*//this bit made the second levelnumbering */
+ol {
+  counter-reset: section;                /* Creates a new instance of the
+                                            section counter with each ol
+                                            element */
+  list-style-type: none;
+}
+
+
+
+li::before {
+  counter-increment: section;            /* Increments only this instance
+                                            of the section counter */
+  content: counters(section,".") " ";    /* Adds the value of all instances
+                                            of the section counter separated
+                                            by a ".". */
+                                         /* if you need to support < IE8 then
+                                            make sure there is no space after
+                                            the ',' */
+}
+
+
+
+# numbered {
+  list-style-type: lower-alpha;
+
+}

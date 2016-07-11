@@ -1,0 +1,40 @@
+/*purple #A593E0
+pinky purple #9055A2
+light grey #E0E3DA
+off white #FFFFF3
+dark gray #566270 - this colour looks foul on mass!
+pale pink #D499B9
+grey blue ??  #2E294E
+night blue #011638
+*/
+
+body {
+    background-color: #011638;
+    color:  #E0E3DA;
+}
+
+
+h1 {
+    color: #9055A2;
+    text-align: center;
+    display: list-item;
+}
+
+dfn {
+  color: red;
+}
+
+dl {
+  background-color: #A593E0;
+  margin: 100px;
+}
+
+dt {
+  margin: 10px;
+  color: orange;
+}
+
+dl {
+  margin: 30px;
+  color: aliceblue;
+}

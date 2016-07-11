@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+
+
+    <title>Definitions</title>
+    <link rel="stylesheet" type="text/css" href="style_definition.css">
+
+
+</head>
+
+<body>
+    <h1>What is this page?</h1>
+      <p>This is a very basic version of the definitions using the dl, dt, and dd</p>
+      <p>No styling</p>
+    <h1>Links -let's work out how to make them work</h1>
+      <p>What does the dfn tag do? </p>
+      <p>So the dfn tag creates a style for the term when it's defined. See, I've styled it green. I'm not sure how you style it when it's used throughout the document</p>
+      <p>The dfn tag also enables you to create an id for the definition which can be used to link to with an a tag. Oddly, it works with a #</p>
+      <p>Every defined term will need an id to later be the anchor for any links</p>
+      <p>let's link to the <a href="#defined_term_id">defined term!</a></p>
+      <p>Let's link to the <a href="#accounts_date_def">accounts date</a></p>
+      <p>Don't put the whole definition inside the dfn tag - it will style the whole thing, and not enable you to style jusst the term</p>
+      <p>Ok.  I have no idea what the defn tag is doing.  I've lost my green styling from the tags!!!1 </p>
+
+
+
+      <p>Is everyone ready to go to </p>
+
+    <h1>Dictionary</h1>
+      <p>This is outside the dictionary list</p>
+
+        <dl>
+          <dt>defined term</dt>
+          <dd>actual definition Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum laudantium sunt voluptate nemo saepe fuga amet quam beatae, ex officiis autem, dolor placeat accusantium quo nihil! Enim numquam libero blanditiis.Lorem ipsum dolo   sit amet, consectetur adipisicing elit. Aut laborum at rem consectetur recusandae corporis assumenda, ex commodi quisquam vel quas ducimus aperiam dolore minima eum, perferendis porro, vitae sit.</dd>
+
+
+          <dfn id="accounts_date_def"><dt>Accounts Date</dt></dfn>
+          <dd>means the date not more than 14 days prior to Completion when the accounts of the Business are prepared.</dd>
+
+          <dfn id="assets_def"> <dt>Assets </dt> </dfn>
+          <dd>means individually and collectively the Goodwill, the Debtors, the Plant and Equipment, the Motor Vehicles, the Intellectual Property Rights, the Stock, the Work in Progress and the benefit of the Business Contracts and Arrangements, Statutory Licences, Equipment Leases, Hire Purchase Agreements, Property Leases and any and all prepayments.</dd>
+
+          <dt>Assistance Period<dt>
+          <dd> means the period specified as such in the Particolars, which may be before or after Completion or both.</dd>
+
+          <dt>Bank<dt> <dd> means an authorised deposit-taking institution within the meaning given to that term in the <em>Banking Act </em>1959 (Cth).</dd>
+
+          <dt>Business<dt> <dd> means the whole of the undertaking and goodwill of the business specified in the Particolars carried on by the Vendor under the business name specified in the Particolars from the Premises and using the Assets.</dd>
+
+          <dt>Completion </dt>
+          <dd>means the completion of this contract resulting in the sale by the Vendor and the purchase by the Purchaser of the Business and the Assets.</dd>
+
+          <dt>Completion Date</dt>
+          <dd>means the date that Completion occurs, such date being scheduled to take place on the date specified in the Particulars.</dd>
+
+          <dt>Conditions</dt>
+          <dd>means the conditions specified as such in the Particulars.</dd>
+
+          <dt>Confidential Information</dt>
+          <dd>means:</dd>
+          <ol>
+              <li>all trade secrets and all financial, accounting, marketing and technical information, customer and supplier lists, pricing information, ideas, concepts, formulae, know‑how, technology, operating procedures, processes, knowledge and other information
+                  belonging to, used by or relating to the Vendor in the conduct of the Business which is not in the public domain;</li>
+              <li>all notes and reports incorporating or derived from information referred to in paragraph (a); and</li>
+              <li>all copies of the information, notes and reports referred to in paragraphs (a) and (b).</li>
+          </ol>
+
+          <dfn id="defined_term_id"><dt>defined term</dt></dfn>
+          <dd>actual definition Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum laudantium sunt voluptate nemo saepe fuga amet quam beatae, ex officiis autem, dolor placeat accusantium quo nihil! Enim numquam libero blanditiis.Lorem ipsum dolor
+              sit amet, consectetur adipisicing elit. Aut laborum at rem consectetur recusandae corporis assumenda, ex commodi quisquam vel quas ducimus aperiam dolore minima eum, perferendis porro, vitae sit.</dd>
+
+      </dl>
+
+</body>
+
+</html>
