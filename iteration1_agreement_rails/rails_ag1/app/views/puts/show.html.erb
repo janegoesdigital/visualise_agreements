@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @put.name %>
+</p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @put.content %>
+</p>
+
+<%= link_to 'Edit', edit_put_path(@put) %> |
+<%= link_to 'Back', puts_path %>

@@ -1,0 +1,25 @@
+<%= form_for(@put) do |f| %>
+  <% if @put.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@put.errors.count, "error") %> prohibited this put from being saved:</h2>
+
+      <ul>
+      <% @put.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :content %><br>
+    <%= f.text_field :content %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,33 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Betty and Jane - use this for showing an agreement as html </h1>
+<h1>Listing Ag2s</h1>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @ag2s.each do |ag2| %>
+      <tr>
+        <td><%= ag2.name %></td>
+        <td><%= ag2.title %></td>
+        <td><%= ag2.author %></td>
+        <td><%= link_to 'Show', ag2 %></td>
+        <td><%= link_to 'Edit', edit_ag2_path(ag2) %></td>
+        <td><%= link_to 'Destroy', ag2, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Ag2', new_ag2_path %>

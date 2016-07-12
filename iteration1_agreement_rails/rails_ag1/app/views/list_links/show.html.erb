@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @list_link.name %>
+</p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @list_link.title %>
+</p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @list_link.author %>
+</p>
+
+<%= link_to 'Edit', edit_list_link_path(@list_link) %> |
+<%= link_to 'Back', list_links_path %>

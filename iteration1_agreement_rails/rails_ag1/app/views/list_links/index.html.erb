@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+
+<h1>Betty and Jane - the home page for the drop-box style agreements</h1>
+<h1>Listing List Links</h1>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @list_links.each do |list_link| %>
+      <tr>
+        <td><%= list_link.name %></td>
+        <td><%= list_link.title %></td>
+        <td><%= list_link.author %></td>
+        <td><%= link_to 'Show', list_link %></td>
+        <td><%= link_to 'Edit', edit_list_link_path(list_link) %></td>
+        <td><%= link_to 'Destroy', list_link, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New List link', new_list_link_path %>

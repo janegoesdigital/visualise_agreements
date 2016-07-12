@@ -1,0 +1,2 @@
+module PutsHelper
+end

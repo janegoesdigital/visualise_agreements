@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Puts</h1>
+<h2>I think this is my home page</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Content</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @puts.each do |put| %>
+      <tr>
+        <td><%= put.name %></td>
+        <td><%= put.content %></td>
+        <td><%= link_to 'Show', put %></td>
+        <td><%= link_to 'Edit', edit_put_path(put) %></td>
+        <td><%= link_to 'Destroy', put, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Put', new_put_path %>

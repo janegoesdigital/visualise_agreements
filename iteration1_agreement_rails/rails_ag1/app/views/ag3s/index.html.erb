@@ -1,0 +1,33 @@
+<p id="notice"><%= notice %></p>
+
+
+<h1>Betty and Jane - use this for showing different ways of transforming an agreement <programitically></programitically></h1>
+<h1>Listing Ag3s</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @ag3s.each do |ag3| %>
+      <tr>
+        <td><%= ag3.name %></td>
+        <td><%= ag3.title %></td>
+        <td><%= ag3.author %></td>
+        <td><%= link_to 'Show', ag3 %></td>
+        <td><%= link_to 'Edit', edit_ag3_path(ag3) %></td>
+        <td><%= link_to 'Destroy', ag3, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Ag3', new_ag3_path %>

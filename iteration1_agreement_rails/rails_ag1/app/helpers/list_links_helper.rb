@@ -1,0 +1,2 @@
+module ListLinksHelper
+end
