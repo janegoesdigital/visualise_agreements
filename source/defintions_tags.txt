@@ -1,0 +1,173 @@
+<dl>
+
+  <h1>Dictionary</h1>
+
+<dt>Accounts Date</dt>
+<dd>means the date not more than 14 days prior to Completion when the accounts of the Business are prepared.</dd>
+
+<dt>Assets <dt>
+<dd>means individually and collectively the Goodwill, the Debtors, the Plant and Equipment, the Motor Vehicles, the Intellectual Property Rights, the Stock, the Work in Progress and the benefit of the Business Contracts and Arrangements, Statutory Licences, Equipment Leases, Hire Purchase Agreements, Property Leases and any and all prepayments.</dd>
+
+<dt>Assistance Period<dt>
+<dd> means the period specified as such in the Particolars, which may be before or after Completion or both.</dd>
+
+<dt>Bank<dt>
+<dd> means an authorised deposit-taking institution within the meaning given to that term in the <em>Banking Act </em>1959 (Cth).</dd>
+
+<dt>Business<dt>
+<dd> means the whole of the undertaking and goodwill of the business specified in the Particolars carried on by the Vendor under the business name specified in the Particolars from the Premises and using the Assets.</dd>
+
+<dt>Business Contracts and Arrangements</dt>
+<dd>means the supply, licence, employee, agency, consolting, franchise, warranties, guarantees, distribution and sale agreements, arrangements or understandings entered into, existing, made or held by the Vendor concerning the Business which are, in whole or in part, executory as at Completion, including those listed in the Particulars.</dd>
+
+<dt>Business Day</dt>
+<dd>means a day other than a Saturday, Sunday or public holiday in the State of Victoria.</dd>
+
+<dt>Claim</dt>
+<dd>includes a claim, notice, demand, action, proceeding, litigation, investigation, judgment, damage, loss, cost, expense or liability however arising, whether present, unascertained, immediate, future or contingent and whether based in contract, tort or statute.</dd>
+
+<dt>Completion </dt>means the completion of this contract resulting in the sale by the Vendor and the purchase by the Purchaser of the Business and the Assets.</dd>
+
+<dt>Completion Date</dt>
+<dd>means the date that Completion occurs, such date being scheduled to take place on the date specified in the Particulars.</dd>
+
+<dt>Conditions</dt>
+<dd>means the conditions specified as such in the Particulars.</dd>
+
+<dt>Confidential Information</dt>
+<dd>means:</dd>
+<ol>
+        <li>all trade secrets and all financial, accounting, marketing and technical information, customer and supplier lists, pricing information, ideas, concepts, formulae, know‑how, technology, operating procedures, processes, knowledge
+            and other information belonging to, used by or relating to the Vendor in the conduct of the Business which is not in the public domain;</li>
+        <li>all notes and reports incorporating or derived from information referred to in paragraph (a); and</li>
+        <li>all copies of the information, notes and reports referred to in paragraphs (a) and (b).</li>
+    </ol>
+
+<dt>Covenantor </dt>
+<dd>means the person or persons described as such in the Particulars.</dd>
+
+<dt>Customer List</dt>
+<dd>means the list of customers of the Business required to be provided by the Vendor on the Completion Date under clause 10.2.7, which is a list of all known customers of the Business with whom the Vendor has traded during the 12 months
+prior to the Completion Date including, if available, particulars of the types of goods or services supplied to the customers, quantities supplied and pricing policies.</dd>
+
+<dt>Debtors</dt>
+<dd>means the trade and other debts owing to the Vendors as at Completion from products or services sold, delivered or provided by the Vendors in the conduct of the Business prior to Completion.</dd>
+
+<dt>Deposit</dt>
+<dd>means the dollar amount described as such in the Particulars.</dd>
+
+<dt>Employee Entitlements</dt>
+<dd>means all accrued entitlements of the Transferring Employees in respect of annual leave (including any loadings) and long service leave accruing in respect of service of 7 years or more.</dd>
+
+<dt>Employees</dt>
+<dd>means the persons employed by the Vendor in the conduct of the Business.</dd>
+
+<dt>Encumbrances</dt>
+<dd>means all mortgages, charges, pledges, liens, security interests, retentions of title, other encumbrances and all rights of any other person adverse to the interest of the Purchaser as purchaser of the Business and the Assets.
+</dd>
+
+<dt>Equipment Leases</dt>
+<dd>means each of the equipment leases entered into by the Vendor in respect of the Leased Equipment.</dd>
+
+<dt>Excluded Assets</dt>
+<dd>means assets specified as such in the Particulars used by the Vendor in the conduct of the Business prior to Completion which will not be transferred to the Purchaser on Completion.</dd>
+
+<dt>Goodwill</dt>
+<dd>means the goodwill of the Vendor in relation to the Business together with the exclusive right for the Purchaser to represent itself as carrying on the Business in succession to the Vendor.</dd>
+
+<dt>GST Law</dt>
+<dd>has the meaning given to that term in the <em>A New Tax System (Goods and Services Tax) Act </em>1999.</dd>
+
+<dt>Hire Purchase Agreements</dt>
+<dd>means each of the hire purchase agreements entered into by the Vendor in respect of the Hired Equipment which the Purchaser requests be assigned to it.</dd>
+
+<dt>Hired Equipment</dt>
+<dd>means each item of plant and equipment identified in the Particulars hired by the Vendor under a Hire Purchase Agreement and used exclusively in the conduct of the Business.
+</dd>
+
+<dt>Intellectual Property Rights</dt>
+<dd>means all intellectual property and proprietary rights (whether registered or unregistered) owned or used by the Vendor or necessary for the conduct of the Business including:
+</dd>
+<ol>
+    <li>the business name,</li>
+    <li>the trademarks;</li>
+    <li>the Confidential Information; and</li>
+    <li>all patents, patent applications, drawings, discoveries, inventions, improvements, trade secrets, technical data, formulae, computer programs, know‑how, logos, registered and unregistered designs, design rights, copyright and similar
+        industrial or intellectual property rights.</li>
+</ol>
+
+<dt>Leased Equipment</dt>
+<dd>means each item of equipment (including Motor Vehicles) identified in the Particulars leased by the Vendor under an Equipment Lease.</dd>
+
+<dt>Liabilities </dt>includes all liabilities (whether actual, contingent or prospective), losses, damages, costs and expenses of whatever description.</dd>
+
+<dt>Motor Vehicles</dt>
+<dd>means the registered motor vehicles identified in the Particulars owned by the Vendor and exclusively used in the conduct of the Business.</dd>
+
+<dt>Particulars </dt>
+<dd>means the particulars of this contract set out in Part 1.</dd>
+
+<dt>Plant and Equipment</dt>
+<dd>means all plant, equipment, fittings, internal partitions, light fittings, tables, glassware, signage, stationery, office furniture and equipment, machinery, computer hardware, printers, furniture, fittings and other fixed assets or
+    chattels owned by the Vendors for use in the conduct of the Business.</dd>
+
+<dt>Plant and Equipment Leases</dt>
+<dd>means lease arrangements in relation to the Plant and Equipment.</dd>
+
+<dt>Premises</dt>
+<dd>means the properties leased by the Vendor under the Premises Leases for the purpose of conducting the Business as specified in the Particulars together with all improvements erected on those properties.</dd>
+
+<dt>Premises Leases</dt>
+<dd>means the lease agreements entered into by the Vendor in respect of the lease of the Premises, full particulars of which are specified in the Particulars.
+</dd>
+
+<dt>Purchase Price</dt>
+<dd>means the dollar amount described as such in the Particulars.</dd>
+
+<dt>Purchaser</dt>
+<dd>means the buyer of the Business and the Assets as set out in the Particulars.</dd>
+
+<dt>Records</dt>
+<dd>means all original and copy records, documents, books, files, reports, accounts, plans, correspondence, letters and papers of every description and other material belonging or relating to or used by the Vendor in the conduct of the
+Business including certificates of incorporation, minute books, statutory books and registers, books of account, taxation returns, title deeds, certificates of title, cheque books, sales literature, market research reports, product
+promotional, descriptive and application material, manufacturing and engineering records, sales and purchasing records, price lists, computer programs and software, personnel records, trading and financial records and lists of
+all regular suppliers and customers.</dd>
+
+<dt>Restraint Area</dt>
+<dd>means the area specified as such in the Particulars.</dd>
+
+<dt>Restraint Period</dt>
+<dd>means the period specified as such in the Particulars.</dd>
+
+<dt>Stakeholder</dt>
+<dd>means the person or persons described as such in the Particulars.</dd>
+
+<dt>Statutory Licences</dt>
+<dd>means all statutory licences, consents, registrations, approvals, authorities, rights, quotas, permits and certificates relating to any aspect of the Business which are held or required by any competent statutory authority (whether
+Commonwealth, State or local) to be held by the Vendor, or any employees of the Business.</dd>
+
+<dt>Stock</dt>
+<dd>means all marketable stocks of raw materials, packaging materials, finished goods and other good and saleable stock‑in‑trade owned and held by the Vendor in the conduct of the Business located at the Premises on the Completion Date.
+</dd>
+
+<dt>Stock Valuer</dt>
+<dd>means the person identified as such in the Particulars who will act as an expert and not as an arbitrator, whose decision will be final and binding on the Vendor and the Purchaser and whose costs will be borne and paid by the Vendor
+and the Purchaser in equal shares.</dd>
+
+<dt>Transferring Employees</dt>
+<dd>means the Employees who accept the Purchaser's offer of employment referred to in clause 18.2.
+</dd>
+
+<dt>Trust Fund</dt>
+<dd>means the trust fund on behalf of which the Vendor, as trustee, operates the Business and owns the Assets, if any.</dd>
+
+<dt>Vendor</dt>
+<dd>means the seller of the Business and the Assets as set out in the Particulars.</dd>
+
+<dt>Warranties</dt>
+<dd>means the warranties made and representations given by the Vendor to the Purchaser at clause 21.
+</dd>
+
+<dt>Work in Progress</dt>
+<dd>means the items of stock relating to orders placed by customers of the Business remaining uncompleted, undelivered or unfulfilled, to the extent that after Completion there is a continuing right or obligation relating to the Business.</dd
+</dl>
