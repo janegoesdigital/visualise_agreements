@@ -16,4 +16,8 @@ replaced the strong with
 
 
 HTML
-<address> tag 
+<address> tag
+
+<%= "A long text".gsub(/dictionary/, "<a href='#dictionary'></a>")%>
+r = RegExp.new("(" + words.join("|") + ")")
+<%= "A long text".gsub(r, "<a href=#{$1}></a>")%>

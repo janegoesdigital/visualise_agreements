@@ -1,5 +1,8 @@
 <p id="notice"><%= notice %></p>
 
+
+
+
 <p>
   <strong>Name:</strong>
   <%= @ag2.name %>
@@ -9,6 +12,27 @@
   <strong>Title:</strong>
   <%= @ag2.title %>
 </p>
+
+<p>
+  <strong>Operative clauses:</strong>
+  <% content = @ag2.content %>
+  <% dictionary = @ag2.definitions.scan(/<dt>(.+)<\/dt>/) %>
+  <%# words = ["dictionary", "completion", "vendor"] %>
+  <% content = content.gsub(/(#{dictionary.join("|")})/i, "<a href=\"##{'\1'}\">#{'\1'}</a>") %>
+  <% content = content.gsub(/dictionary/i, "<a href='#dictionary'>dictionary</a>") %>
+
+  <%= content.html_safe %>
+
+</p>
+
+<p>
+  <strong>Definitions:</strong>
+  <% definitions = @ag2.definitions %>
+  <% definitions = definitions.gsub(/<dt>(.+)<\/dt>/i, "<dt id=\"#{'\1'}\">#{'\1'}</dt>")%>
+  <%= definitions.html_safe %>
+
+</p>
+
 
 <p>
   <strong>Author:</strong>

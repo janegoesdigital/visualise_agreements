@@ -10,6 +10,7 @@ class Ag2sController < ApplicationController
   # GET /ag2s/1
   # GET /ag2s/1.json
   def show
+    
   end
 
   # GET /ag2s/new
@@ -69,6 +70,6 @@ class Ag2sController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def ag2_params
-      params.require(:ag2).permit(:name, :title, :author)
+      params.require(:ag2).permit(:name, :title, :author, :content, :definitions)
     end
 end

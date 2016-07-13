@@ -1,20 +1,23 @@
 console.log("hello betty")
 //
 //
-//
+// functions I need
+// link dictionary word to dictionary
+// link words used in the dictionary to the occurence of the word thoughout the document
+// link
 //
 $(document).ready(function() {
 
 
-    var newLink = "<a href="">$1</a>"
-
-    var target_word = "dictionary";
-    var link_word = function(){
-    var where_search = $("p","dd")
-
-
-
-    }
+    // var newLink = "<a href="">$1</a>"
+    //
+    // var target_word = "dictionary";
+    // var link_word = function(target_word){
+    //   var where_search = $("p","dd")
+    //
+    //
+    //
+    // }
 
 
 
