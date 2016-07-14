@@ -6,40 +6,23 @@
 </head>
 <body>
 
-<h1>Law goes the full digital monty</h1>
-
-<div class="pure-menu pure-menu-horizontal">
 
 
-        <li class="pure-menu-item"><a href="/about" class="pure-menu-link">About this agreement</a></li>
 
-        <li class="pure-menu-item"><a href="steps" class="pure-menu-link">Key steps or stages</a></li>
+<h2>Law goes the full digital monty!</h2>
 
-        <li class="pure-menu-item pure-menu-selected"><a href="terms" class="pure-menu-link">Key terms</a></li>
-
-        <li class="pure-menu-item"><a href="agreement" class="pure-menu-link">Ye old fashioned agreement</a></li>
-
-        <li class="pure-menu-item"><a href="help" class="pure-menu-link">Help</a></li>
-
-</div>
+<%= render "persistent_nav" %>
 
 
-get '/digital' => 'digital#home'
-
-get '/about' => 'about#home'
-
-get '/terms' => 'terms#home'
-get '/steps' => 'steps#home'
-get '/agreement' => 'agreement#home'
-get '/help' => 'help#home'
 
 <div class="banner">
     <h1 class="banner-head">
-    Agreements made simple.<br>
-    Understand what you sign.
+      <span class=" blue-text darken-text">
+    <i>Agreements made simple.<br>
+    Understand what you sign.</i>
+  </span>
 </h1>
 </div>
-
 
 </body>
 </html>
