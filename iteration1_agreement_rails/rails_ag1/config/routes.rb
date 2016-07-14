@@ -1,4 +1,19 @@
 Rails.application.routes.draw do
+
+  root 'pages#home'
+
+  get '/web1'=> 'pages#web1'
+
+  get '/digital' => 'digital#home'
+
+  get '/about' => 'digital#about'
+
+  get '/terms' => 'digital#terms'
+  get '/steps' => 'digital#steps'
+  get '/agreement' => 'digital#agreement'
+  get '/help' => 'digital#help'
+
+
   resources :ag3s
   resources :ag2s
   resources :ag2s

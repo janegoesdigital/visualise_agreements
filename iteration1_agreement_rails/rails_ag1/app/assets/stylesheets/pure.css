@@ -17,7 +17,7 @@ Copyright (c) Nicolas Gallagher and Jonathan Neal
  */
 
 html {
-  font-family: sans-serif; /* 1 */
+  font-family: helvetica; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -27,7 +27,7 @@ html {
  */
 
 body {
-  margin: 0;
+  margin: 100;
 }
 
 /* HTML5 display definitions
@@ -54,6 +54,7 @@ nav,
 section,
 summary {
   display: block;
+  text-align: center;
 }
 
 /**
@@ -1254,7 +1255,7 @@ since IE8 won't execute CSS that contains a CSS3 selector.
 
 .pure-menu-link,
 .pure-menu-heading {
-    display: block;
+    /*display: block;*/
     text-decoration: none;
     white-space: nowrap;
 }
