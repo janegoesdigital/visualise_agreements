@@ -12,3 +12,9 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+p {
+  padding: 0px;
+  margin: 0px;
+
+}
